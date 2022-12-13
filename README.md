@@ -3,7 +3,9 @@ Allows users to enter 2 .ppm images as command line arguments and allows them to
 2 files are provided for testing, Disney.ppm ClemsonPaw.ppm
 
 How to run:
+
 make
+
 ./ppm-shop <image1> <image2>
 
 Notes:
